@@ -3,7 +3,7 @@
 
 ### 安裝
 ```
-   go get -u github.com/xzp51/st
+   go get -u github.com/xzp51/st/...
 ```
 
 ### 使用
